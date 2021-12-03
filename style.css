@@ -1,0 +1,26 @@
+body
+	{
+	background-image: url('mink.jpg');
+	text-align:center;
+	}
+	h1
+	{
+	font-family:arial;
+	font-size: 75px;
+	}
+	p
+	{
+	text-align:center;
+	font-size: 50px;
+	}
+	a.one:link
+	{
+	background-color: white;
+  	color: black;
+  	padding: 14px 20px;
+  	text-align: center;
+ 	text-decoration: none;
+  	display: inline-block;
+	}
+	a.one:visited {color:#0000ff;}
+	a.one:hover {font-size:150%;}
